@@ -1,0 +1,240 @@
+body{
+          margin: 0;
+          padding: 0;
+          font-family: sans-serif;
+          background-color:#273244 ;
+}
+header{
+          background: #121B2A;
+          box-shadow:1px 3px 8px 0px ;
+}
+.wrapper{  margin: 0 auto;
+          width: 90%;
+          overflow: hidden;
+}
+.logo{
+       width: 18%;
+       float: left;
+       margin-left: 55px;
+}
+.logo img{ width: 100%;}
+.menu{
+          width: 62%;
+          float: right;
+}
+.menu ul{
+         overflow: hidden;
+}
+.menu ul li{
+          list-style: none;
+          float: left;
+          margin-top: 50px;
+}
+.menu ul li a{ text-decoration: none;
+        color: white;
+          padding:0 20px;
+          display: inline-block;
+
+}
+.menu ul li:first-child a{
+          color:#0076BC ;
+}
+.menu ul li a:hover{
+       color:#0076BC ;
+}
+/* banner start  */
+
+.banner-section{
+       margin: 0 auto;
+       width: 100%;
+       background: url(./slider/banner\ banner.jpg);
+       padding:170px 0;
+       background-repeat: no-repeat;
+       background-size: cover;
+      
+}
+.wid{
+       margin: 0 auto;
+       width: 90%;
+}
+.banner-contant{
+       width: 60%;
+       color: white;
+}
+.b-h2{ font-size: 48px;
+
+}
+.b-h2 span{
+       color: #0076BC;
+}
+.b-p{
+    font-size:18px ;
+    line-height: 30px;
+}
+.learn{
+       margin: 0 auto;
+}
+.button{
+       font-size: 25px;
+       padding: 15px 25px;
+       margin: 20px;
+       border-radius: 10px ;
+       margin-left: 0;
+}
+.button i{
+        color: #0076BC;
+       margin-left:12px ;
+}
+
+/* banner end  */
+/* section er 3ta part start */
+.section2{
+       background-color:#121B2C ;
+}
+.wid{
+       margin: 0 auto;
+       width: 90%;
+     
+}
+.containt{
+       overflow: hidden;
+
+}
+.single{
+       margin: 40px 17px 20px 17px;
+       width: 28%;
+       height: 300px;
+       float: left;
+       padding: 40px 11px 20px 11px;
+      border-right: 1px solid rgb(35, 43, 46);
+     
+}
+
+.single i{
+       font-size: 70px;
+       color: rgb(202, 205, 218);
+       display: inline-block;
+       
+}
+.single h2{
+       color: white;
+       font-size:28px;
+       display: inline-block;
+       padding-left: 15px;
+      
+}
+.single span{
+       color:  #0076BC;
+}
+.single p{
+       color: white;
+      font-size: 16px;
+       line-height: 30px;
+}
+
+ /* section er 3ta part end */
+ /* setion mobile start */
+ .mobile{  background-color:#040811;
+     
+ }
+ .wid{} 
+ .sec{}
+ .sec-one{
+        width: 30%;
+        float: left;
+        margin: 40px 20px;
+      
+ }
+ .sec-one h3{
+        color: white;
+ }
+ .sec-one span{
+        color: #0076BC ;
+ }
+ .sec-one p{
+        color: white;
+        font-size: 12px;
+        line-height: 20px;
+ }
+ .one{
+        color: white;
+        font-size: 14px;
+        line-height: 20px;
+
+ }
+ .two{  font-size: 14px;
+        padding: 15px 0;
+        color: white;
+ }
+ .three{
+       font-size: 14px;
+       padding: 20px 0;
+       color: white;
+ }
+ .three span{
+       font-size:17px ;
+ }
+
+ .sec-two{}
+ .img{}
+ .img img{}
+
+ /* setion mobile end */
+
+ /* footer start  */
+footer{
+       background-color: #121b2C;
+}
+.wrapper{
+       width: 100%;
+      
+}
+.f-wrapper{
+       width: 80%;
+           overflow: hidden;
+           margin-left:60px;
+ }
+.footer-con{
+       width: 70%;
+       float: left;
+     
+}
+.f-menu2{
+       
+}
+ .f-menu2 ul{
+        
+ }
+.f-menu2 ul li{
+       list-style: none;
+       display: inline-block;
+}
+.f-menu2 ul li a{
+           text-decoration: none;
+           display: inline-block;
+           color: white;
+           padding: 0 20px;
+           font-size:15px ;
+           border-right:1px solid white;
+}
+.f-menu2 ul li:last-child a{
+       border-right: none;
+}
+ .footer-con p{ margin:22px 55px;
+       color: white;
+
+ }
+ .footer-con span{
+        font-size: 15px;
+ }
+.f-pic{
+       width:30%;
+       float: right;
+      
+}
+.f-pic img{
+      width: 100%;
+}
+
+
+ /* footer end */
