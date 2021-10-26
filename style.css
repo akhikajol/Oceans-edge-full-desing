@@ -109,6 +109,9 @@ header{
       border-right: 1px solid rgb(35, 43, 46);
      
 }
+.single:last-child{
+  border: none;
+}
 
 .single i{
        font-size: 70px;
